@@ -1,15 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdou Khadre DIOP
 =========================================================================================================================================
 
-Data, IA, Machine learning
---------------------------
+Data, IA, Machine learning, web dev
+-----------------------------------
 
 I am a passionate and technology african innovator with a strong engineering background and a deep commitment to delivering effective solutions in Artificial Intelligence, Cloud, and Virtual Reality. My career path has been shaped by a blend of technical expertise, creative problem-solving, and a desire to make a difference with effective, high-impact products. With multiple awards, certifications, and globally recognized training, I am eager to share my expertise in innovation with others.
 
 *   🌍  I'm based in Senegal
 *   ✉️  You can contact me at [diopous1@gmail.com](mailto:diopous1@gmail.com)
 *   🧠  I'm learning next.js, Tensorflow, langchain, IA LLM SDK
-*   🤝  I'm open to collaborating on IA projects<a href="https://www.x.com/diopddabdou" target="_blank" rel="noreferrer"><img
+*   🤝  I'm open to collaborating on IA projects
+*
+*
+*   <a href="https://www.x.com/diopddabdou" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/diopddabdou?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
 <p align="left">
