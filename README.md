@@ -77,5 +77,5 @@ I am a passionate and technology african innovator with a strong engineering bac
 
 ### 🥇 Certifications                  
                   
-<img align="left" alt="Certified azure" width="60px" style="padding-right:10px;" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1461449489/image193214236496861289.png"/>
-<img align="left" alt="Certified azure data science" width="60px" style="padding-right:10px;" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1456157181/azure-data-scientist-associate-600x60016151426175978877264.png" />
+<img align="left" alt="Certified azure" width="90px" style="padding-right:10px;" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1461449489/image193214236496861289.png"/>
+<img align="left" alt="Certified azure data science" width="90px" style="padding-right:10px;" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1456157181/azure-data-scientist-associate-600x60016151426175978877264.png" />
