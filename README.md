@@ -11,7 +11,7 @@ I am a passionate and technology african innovator with a strong engineering bac
 *   🤝  I'm open to collaborating on IA projects <br>
 <a href="https://www.x.com/diopddabdou" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/diopddabdou?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
------------------------------------
+#
 
 ### 🧰 Languages and Tools
 <p align="left">
@@ -75,7 +75,11 @@ I am a passionate and technology african innovator with a strong engineering bac
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
   </a>
 </p>
-=========================================================================================================================================
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=djili&show_icons=true&theme=gruvbox)
                 
                   
                   
