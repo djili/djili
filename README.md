@@ -74,9 +74,9 @@ I am a passionate and technology african innovator with a strong engineering bac
 #
 
 ### 📊 Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=djili&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djili)](https://github.com/anuraghazra/github-readme-stats)
-                
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=djili&show_icons=true)
+
 #
 
 ### 🥇 Certifications                  
