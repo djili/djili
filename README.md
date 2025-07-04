@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdou Khadre DIOP
+                     Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdou Khadre DIOP
 =========================================================================================================================================
 
 **` Data, IA, Machine learning, web dev`**
@@ -7,8 +7,8 @@ I am a passionate and technology african innovator with a strong engineering bac
 
 *   🌍  I'm based in Senegal
 *   ✉️  You can contact me at [diopous1@gmail.com](mailto:diopous1@gmail.com)
-*   🧠  I'm learning next.js, Tensorflow, langchain, IA LLM SDK
-*   🤝  I'm open to collaborating on IA projects <br>
+*   🧠  I'm learning next.js, pytorch, langchain, IA LLM SDK
+*   🤝  I'm open to collaborating on IA projects <br> <br>
 <a href="https://www.x.com/diopddabdou" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/diopddabdou?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 #
@@ -75,10 +75,10 @@ I am a passionate and technology african innovator with a strong engineering bac
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
   </a>
 </p>
+
 #
 
 ### 📊 Stats
-
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=djili&show_icons=true&theme=gruvbox)
                 
                   
