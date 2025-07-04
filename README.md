@@ -9,6 +9,10 @@ I am a passionate and technology african innovator with a strong engineering bac
 *   ✉️  You can contact me at [diopous1@gmail.com](mailto:diopous1@gmail.com)
 *   🧠  I'm learning next.js, pytorch, langchain, IA LLM SDK
 *   🤝  I'm open to collaborating on IA projects <br> <br>
+
+#
+
+### 😊 socials
 <a href="https://www.x.com/diopddabdou" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/diopddabdou?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 #
