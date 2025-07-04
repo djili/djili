@@ -66,9 +66,6 @@ I am a passionate and technology african innovator with a strong engineering bac
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/>
   </a>
-    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure.svg" width="36" height="36" alt="Azure" title="Azure"/>
-  </a>
 </p>
 
 #
@@ -76,6 +73,9 @@ I am a passionate and technology african innovator with a strong engineering bac
 ### 📊 Stats
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=djili&show_icons=true&theme=gruvbox)
                 
+#
+
+### 🥇 Certifications                  
                   
-                  
-             
+<img align="left" alt="Certified azure" width="60px" style="padding-right:10px;" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1461449489/image193214236496861289.png"/>
+<img align="left" alt="Certified azure data science" width="60px" style="padding-right:10px;" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1456157181/azure-data-scientist-associate-600x60016151426175978877264.png" />
